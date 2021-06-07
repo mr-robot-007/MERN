@@ -1,0 +1,27 @@
+array - map(apply something to all elements)
+      - filter(filter elements from array on basis of some condition)
+      interval( setInterval,setTimeout)
+      -arrayof function
+to read/input from user -> include readline-sync a
+to make http request use (axios)
+to download image use (image-downloader)
+
+
+
+
+lecture 7
+to create a project
+first create a folder(eg wapp)
+run" npm init "(it will create a project with a structure with index.js and package.json)
+use "npm i axios" to add a package to the project
+incase any installed packages are deleted,use "npm install" ,it will add all the packages mentioned iin dependencies of package.json file 
+to install all the dependencies of package-lock.json use "npm ci"
+to start a project use "npm run start"
+
+
+
+git fetch origin master
+git merge origin master
+git add .
+git commit -m 'your commit message'
+git push origin master
